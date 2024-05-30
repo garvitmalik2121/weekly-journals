@@ -27,9 +27,9 @@
 - [How to host a static website on AWS S3 | Host your static website on AWS S3 in 5 minutes (youtube.com)](https://www.youtube.com/watch?v=MzNrhM84cH8)
 
 ## Estimated Hours
-- **Development**: 10 hours
+- **Development**: 6 hours
 - **Learning and Research**: 5 hours
-- **Deployment and Testing**: 3 hours
+- **Deployment and Testing**: 8 hours
 
 ## Content Insights
 
@@ -43,7 +43,16 @@
   - **Best Practices**: Gained insights into best practices for using AWS S3, such as versioning for file management, monitoring with AWS CloudWatch, and optimizing costs with storage class analysis.
 
 ## Career/Employability/Learning Insights
+**Practical Skills:**
 
-- **Practical Skills**: Improved web development and cloud hosting skills.
-- **Problem-Solving**: Overcame challenges in web design and AWS S3 configuration.
-- **Project Management**: Effectively managed time and tasks to complete the project.
+**Web Development:** The hands-on experience with HTML and CSS solidified my understanding of web development fundamentals. These skills are highly marketable, providing a strong foundation for front-end development roles.
+
+**Cloud Hosting:** Knowledge of AWS S3 and its configuration for hosting static websites adds a valuable skill to my portfolio, demonstrating my ability to deploy and manage web applications on the cloud.
+Problem-Solving:
+
+**Web Design Challenges:** Addressing layout issues and ensuring cross-browser compatibility honed my problem-solving abilities. Each challenge provided an opportunity to apply critical thinking and find effective solutions.
+**AWS Configuration:** Troubleshooting permission settings and ensuring secure, yet accessible, deployment on AWS S3 required a systematic approach to problem-solving.
+Project Management:
+
+**Time Management:** Balancing development, learning, and deployment tasks required careful planning and time management. This experience underscores the importance of setting realistic timelines and adhering to them.
+Task Coordination: Managing different aspects of the project—from design to deployment—improved my ability to coordinate tasks effectively, a crucial skill in any professional setting.
