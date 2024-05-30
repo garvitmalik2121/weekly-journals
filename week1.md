@@ -48,11 +48,13 @@
 **Web Development:** The hands-on experience with HTML and CSS solidified my understanding of web development fundamentals. These skills are highly marketable, providing a strong foundation for front-end development roles.
 
 **Cloud Hosting:** Knowledge of AWS S3 and its configuration for hosting static websites adds a valuable skill to my portfolio, demonstrating my ability to deploy and manage web applications on the cloud.
-Problem-Solving:
+
+**Problem-Solving:**
 
 **Web Design Challenges:** Addressing layout issues and ensuring cross-browser compatibility honed my problem-solving abilities. Each challenge provided an opportunity to apply critical thinking and find effective solutions.
 **AWS Configuration:** Troubleshooting permission settings and ensuring secure, yet accessible, deployment on AWS S3 required a systematic approach to problem-solving.
-Project Management:
+
+**Project Management:**
 
 **Time Management:** Balancing development, learning, and deployment tasks required careful planning and time management. This experience underscores the importance of setting realistic timelines and adhering to them.
 Task Coordination: Managing different aspects of the project—from design to deployment—improved my ability to coordinate tasks effectively, a crucial skill in any professional setting.
