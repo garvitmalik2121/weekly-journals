@@ -1,5 +1,5 @@
 
-**Learning Activities & Resources:**
+## Learning Activities & Resources:
 
 This week, I focused on learning how to build a website using the Joomla CMS. My journey began with setting up Joomla on my local machine, which involved downloading and configuring XAMPP, a popular local server environment. Here’s a detailed account of my learning process and the challenges I encountered:
 
