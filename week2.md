@@ -33,13 +33,13 @@ This week, I focused on learning how to build a website using the Joomla CMS. My
     - https://forum.joomla.org/
     - https://docs.joomla.org/Tutorials:Beginners
 
-#### Estimated Hours:
+## Estimated Hours:
 I spent approximately 6 hours this week on this subject, not including time spent on the assignment. A significant portion of this time was dedicated to troubleshooting installation issues.
 
-#### Content Insights:
+## Content Insights:
 Learning Joomla provided a different perspective on CMSs compared to WordPress. The installation and setup process gave me hands-on experience with server configurations and database management. Troubleshooting the MySQL server conflict and the "access denied" error gave me deeper insights into backend management, which is a critical part of web development. Additionally, working with Joomla's content management features, such as its article and menu systems, helped me understand how different CMS platforms organize and display content. Joomla’s modular approach to content management, using articles, categories, and modules, offered a flexible way to create and manage web content.       
 
-#### Career/Employability/Learning Insights:
+## Career/Employability/Learning Insights:
 Through this week’s practical, I enhanced my troubleshooting skills and gained a deeper understanding of server environments and database configurations. These skills are crucial for web development and system administration roles. Additionally, using Joomla's online environment after facing local installation issues demonstrated the importance of adaptability and leveraging available resources to continue learning.
 
 In conclusion, while the week was filled with challenges, it was an enriching experience that broadened my understanding of CMSs and improved my technical skills. Moving forward, I plan to continue exploring Joomla and compare its features and usability with WordPress to enhance my web development capabilities.
