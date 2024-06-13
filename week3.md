@@ -20,6 +20,7 @@ I spent approximately 15 hours this week on this subject.
 - **Creating Pages**: Learned how to create and link pages using the block editor, though the initial design was not visually appealing.
 - **Using Plugins**: Discovered and installed a plugin All-IN ONE-WP-MIGRATION, which significantly improved the site's design.
 - **Hosting Challenges**: Spent considerable time (4 hours) researching hosting options and ultimately used cPanel hosting. Utilized a plugin All-IN ONE-WP-MIGRATION to transfer and set up the site on the new domain.
+- **Group Formation Reflection**: As a bachelor student grouped with master’s students, I was keen to learn from my seniors. We reviewed classmates to form a group for the assignment and decided to use WhatsApp as our communication tool. This helped us coordinate effectively and ensured that everyone was on the same page. I am enthusiastic about developing the assignment with them, as this collaboration offers a valuable learning experience and the opportunity to gain insights from their advanced knowledge and expertise.
 
 #### Career/Employability/Learning Insights
 - **Practical Skills**: Gained hands-on experience with WordPress, from installation to plugin usage and page linking. These skills are foundational for web development roles.
