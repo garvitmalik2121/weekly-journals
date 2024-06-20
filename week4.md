@@ -10,10 +10,15 @@ This week, I set up a local development environment using XAMPP, installed WordP
 - Installed XAMPP to provide a local server environment.
 - Configured Apache and MySQL services for running local websites.
 - Installed WordPress and Joomla, each with its own database.
+  https://www.bing.com/ck/a?!&&p=e587db46d0db3753JmltdHM9MTcxODc1NTIwMCZpZ3VpZD0wYWM2NWViYi03YzY2LTZiOGMtMThiZi00YzM4N2Q2MDZhNjYmaW5zaWQ9NTU0Ng&ptn=3&ver=2&hsh=3&fclid=0ac65ebb-7c66-6b8c-18bf-4c387d606a66&psq=WordPress+Installation+Guide&u=a1aHR0cHM6Ly90aGVtZWdyaWxsLmNvbS9ibG9nL2hvdy10by1pbnN0YWxsLXdvcmRwcmVzcy8&ntb=1
+  https://docs.joomla.org/Installing_Joomla
 - Explored plugins/extensions such as WP Map, Bookly, and Forminator for WordPress; JEvents, AcyMailing, and BreezingForms for Joomla.
+  https://wordpress.org/plugins/wp-google-maps/
+  https://support.booking-wp-plugin.com/hc/en-us
 - Developed basic pages (Home, About Us, Services, Contact, Blog) and added a team page with bios.
 - Created and embedded a short video introducing the startup and its mission.
-
+  https://wordpress.org/documentation/article/video-block/
+  
 ### Estimated Hours
 
 I spent around 12 hours this week on setting up the local development environment and starting on Assignment 1.
